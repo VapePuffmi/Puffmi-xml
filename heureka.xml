@@ -1,4 +1,1021 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SHOP>
-  <!-- Your <SHOPITEM> entries go here -->
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387847037254</ITEM_ID>
+        <ITEMGROUP_ID>14985143353670</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Blueberry Raspberry</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Blueberry Raspberry</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Blueberry Raspberry 
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-blueberry-raspberry?variant=54387847037254</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387720618310</ITEM_ID>
+        <ITEMGROUP_ID>14985096626502</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Caramel Popcorn</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Caramel Popcorn</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Caramel Popcorn
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-caramel-popcorn?variant=54387720618310</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387786842438</ITEM_ID>
+        <ITEMGROUP_ID>14985118777670</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Cherry Cola</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Cherry Cola</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Cherry Cola
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-cherry-cola?variant=54387786842438</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387740311878</ITEM_ID>
+        <ITEMGROUP_ID>14985102983494</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Classic Tobacco</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Classic Tobacco</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Classic Tobacco 
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-classic-tobacco?variant=54387740311878</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387801522502</ITEM_ID>
+        <ITEMGROUP_ID>14985123758406</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Coffee</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Coffee</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Coffee
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-coffee?variant=54387801522502</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387775340870</ITEM_ID>
+        <ITEMGROUP_ID>14985114419526</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Double Apple</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Double Apple</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Double Apple
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-double-apple?variant=54387775340870</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387833962822</ITEM_ID>
+        <ITEMGROUP_ID>14985137029446</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Grape</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Grape</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Grape
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-grape?variant=54387833962822</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387811942726</ITEM_ID>
+        <ITEMGROUP_ID>14985127690566</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Mango Peach</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Mango Peach</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Mango Peach
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-mango-peach?variant=54387811942726</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387652624710</ITEM_ID>
+        <ITEMGROUP_ID>14985074278726</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Mint</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Mint</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Mint
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-mint?variant=54387652624710</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387823182150</ITEM_ID>
+        <ITEMGROUP_ID>14985132507462</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Strawberry Ice</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Strawberry Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Strawberry Ice
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-strawberry-ice?variant=54387823182150</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387102581062</ITEM_ID>
+        <ITEMGROUP_ID>14984931443014</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Vanilla Ice Cream</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Vanilla Ice Cream</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Vanilla ice cream
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000?variant=54387102581062</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>54387687391558</ITEM_ID>
+        <ITEMGROUP_ID>14985086239046</ITEMGROUP_ID>
+        <PRODUCT>Airio 1000 Watermelon Ice</PRODUCT>
+        <PRODUCTNAME>Airio 1000 Watermelon Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Watermelon Ice
+Puffmi Airio 1000: Elegantní jednorázové zařízení s až 1000 potahy a 2 ml prémiového e-liquidu. Stylový průhledný design a pestrá nabídka příchutí pro dokonalý požitek.
+
+
+Počet potahů: 1000
+
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/airio-1000-watermelon-ice?variant=54387687391558</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>160.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>Puffmi</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722894369094</ITEM_ID>
+        <ITEMGROUP_ID>14792196030790</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Blueberry Bubble Gum</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Blueberry Bubble Gum</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Blueberry Bubble Gum
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-blueberry-bubble-gum?variant=53722894369094</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722908066118</ITEM_ID>
+        <ITEMGROUP_ID>14792198848838</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Blueberry Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Blueberry Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Blueberry Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-blueberry-ice?variant=53722908066118</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722908492102</ITEM_ID>
+        <ITEMGROUP_ID>14792199143750</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Cherry Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Cherry Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Cherry Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-cherry-ice?variant=53722908492102</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722913931590</ITEM_ID>
+        <ITEMGROUP_ID>14792201503046</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Cola Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Cola Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Cola Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-cola-ice?variant=53722913931590</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722910949702</ITEM_ID>
+        <ITEMGROUP_ID>14792200061254</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Grape Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Grape Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Grape Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-grape-ice?variant=53722910949702</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722916815174</ITEM_ID>
+        <ITEMGROUP_ID>14792202813766</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Kiwi Strawberry Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Kiwi Strawberry Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Kiwi Strawberry Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-kiwi-strawberry-ice?variant=53722916815174</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722921959750</ITEM_ID>
+        <ITEMGROUP_ID>14792205173062</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Kiwi Watermelon Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Kiwi Watermelon Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Kiwi Watermelon Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-kiwi-watermelon-ice?variant=53722921959750</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53722924286278</ITEM_ID>
+        <ITEMGROUP_ID>14792205795654</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Mango Passion Fruit</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Mango Passion Fruit</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Mango Passion Fruit
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-mango-passion-fruit?variant=53722924286278</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53787844772166</ITEM_ID>
+        <ITEMGROUP_ID>14809301614918</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Mixed Berry</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Mixed Berry</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Mixed Berry
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 20mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-mixed-berry?variant=53787844772166</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53787848671558</ITEM_ID>
+        <ITEMGROUP_ID>14809302827334</ITEMGROUP_ID>
+        <PRODUCT>Crystal Box - Watermelon Ice</PRODUCT>
+        <PRODUCTNAME>Crystal Box - Watermelon Ice</PRODUCTNAME>
+        <DESCRIPTION>Příchuť: Watermelon Ice
+Puffmi Crystal Box je moderní a stylová řada jednorázových e-cigaret značky Puffmi, navržená tak, aby nabídla uživatelům příjemný estetický zážitek spolu s jednoduchostí a širokým výběrem příchutí. Označení „Crystal“ odkazuje na atraktivní, průhledný design zařízení, který působí luxusně a odlišuje se od běžných modelů na trhu.
+
+
+Počet potahů: 600
+
+Kapacita e-liquidu: 2 ml
+
+Obsah nikotinu: 18mg/ml
+
+Baterie: 500 mAh
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. 
+ 
+ </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/crystal-box-watermelon-ice?variant=53787848671558</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53744218341702</ITEM_ID>
+        <ITEMGROUP_ID>14792142881094</ITEMGROUP_ID>
+        <PRODUCT>Puffmi - Alpha 600 - Baterie</PRODUCT>
+        <PRODUCTNAME>Puffmi - Alpha 600 - Baterie</PRODUCTNAME>
+        <DESCRIPTION>Alpha 600 - Baterie
+
+
+Baterie: 500 mAh
+
+Nabíjení: USB-Type C
+
+Určeno pouze osobám starší 18 let.</DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-alpha-600-watermelon?variant=53744218341702</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shop/files/Alphablack_1024x1024.png?v=1732381046</IMGURL>
+        <PRICE_VAT>150.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+      <SHOPITEM>
+        <ITEM_ID>53744218374470</ITEM_ID>
+        <ITEMGROUP_ID>14792142881094</ITEMGROUP_ID>
+        <PRODUCT>Puffmi - Alpha 600 - Baterie</PRODUCT>
+        <PRODUCTNAME>Puffmi - Alpha 600 - Baterie</PRODUCTNAME>
+        <DESCRIPTION>Alpha 600 - Baterie
+
+
+Baterie: 500 mAh
+
+Nabíjení: USB-Type C
+
+Určeno pouze osobám starší 18 let.</DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-alpha-600-watermelon?variant=53744218374470</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shop/files/Alphawhite_1024x1024.png?v=1732380840</IMGURL>
+        <PRICE_VAT>150.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790151246150</ITEM_ID>
+        <ITEMGROUP_ID>14809716982086</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Banana Ice</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Banana Ice</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Banana Ice
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-banana-ice?variant=53790151246150</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790223204678</ITEM_ID>
+        <ITEMGROUP_ID>14809733267782</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Cola Lime</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Cola Lime</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Lemon &amp;amp; Lime
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-cola-lime?variant=53790223204678</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790211801414</ITEM_ID>
+        <ITEMGROUP_ID>14809729827142</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Guava Lime</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Guava Lime</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Guava Lime
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-guava-lime?variant=53790211801414</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790221271366</ITEM_ID>
+        <ITEMGROUP_ID>14809732514118</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Lemon &amp; Lime</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Lemon &amp; Lime</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Lemon &amp;amp; Lime
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek.</DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-lemon-lime?variant=53790221271366</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790203576646</ITEM_ID>
+        <ITEMGROUP_ID>14809728614726</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Triple Mango Banana</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Triple Mango Banana</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Triple Mango Banana
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-triple-mango-banana?variant=53790203576646</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
+    
+      <SHOPITEM>
+        <ITEM_ID>53790302404934</ITEM_ID>
+        <ITEMGROUP_ID>14809749815622</ITEMGROUP_ID>
+        <PRODUCT>Puffmi 4IN1 pods - Watermelon Mint Mojito</PRODUCT>
+        <PRODUCTNAME>Puffmi 4IN1 pods - Watermelon Mint Mojito</PRODUCTNAME>
+        <DESCRIPTION>Puffmi 4IN1 - 2x pods (náplň)
+Příchuť: Watermelon Mint Mojito
+
+
+Objem: 2ml
+
+Nikotin: 18mg
+
+Obsah: 2x náplň
+Snadná výměna naplní
+
+Upozornění    • Uchovávejte mimo dosah dětí a osobám mladším 18 let.     • Tento produkt obsahuje nikotin, který může zvýšit srdeční frekvenci, krevní tlak a může způsobit nevolnost.     • Nedoporučuje se pro nekuřáky, těhotné a kojící ženy, osoby alergické na některou z uvedených složek. 
+ </DESCRIPTION>
+        <URL>https://www.puffmi.cz/products/puffmi-4in1-pods-watermelon-mint-mojito?variant=53790302404934</URL>
+        <IMGURL>https://www.puffmi.cz/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif</IMGURL>
+        <PRICE_VAT>200.0</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <DELIVERY_DATE>0</DELIVERY_DATE>
+        <CATEGORYTEXT>Elektronika | E-cigarety</CATEGORYTEXT>
+        <EAN></EAN>
+        <MANUFACTURER>My Store</MANUFACTURER>
+        <DELIVERY>
+          <DELIVERY_ID>personal_delivery</DELIVERY_ID>
+          <DELIVERY_PRICE>0.00</DELIVERY_PRICE>
+        </DELIVERY>
+      </SHOPITEM>
+    
+  
 </SHOP>
